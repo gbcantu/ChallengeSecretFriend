@@ -183,5 +183,3 @@ A colaboração com a Alura me permitiu aprender com mentores experientes e part
 Fazer parte deste programa tem sido uma experiência valiosa, proporcionando as ferramentas necessárias para impulsionar minha carreira na área de tecnologia e expandir minhas habilidades de resolução de problemas.
 
 ---
-
-Agora o seu `README.md` está atualizado com o link correto do repositório! Basta atualizar o arquivo no seu GitHub. 😊
