@@ -1,7 +1,3 @@
-Claro! Aqui está o README completo, com a descrição do Oracle One e Alura (Turma G8) inclusa:
-
----
-
 **English Version:**
 
 # Friends List
