@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Amigos</title>
+    <link rel="stylesheet" href="style.css"> <!-- Vinculando o CSS -->
+</head>
+<body>
+    <h1>Lista de Amigos</h1>
+    
+    <!-- Campo de entrada e botão -->
+    <input type="text" id="nomeAmigo" placeholder="Digite o nome do amigo">
+    <button onclick="adicionarAmigo()">Adicionar</button>
+    
+    <ul id="listaAmigos"></ul> <!-- Lista de amigos -->
+
+    <button onclick="sortearAmigo()">Sortear um amigo</button>
+    <p id="resultado"></p> <!-- Resultado do sorteio -->
+
+    <!-- Vinculando o arquivo JS externo -->
+    <script src="script.js"></script>
+</body>
+</html>
